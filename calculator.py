@@ -42,3 +42,4 @@ while 'да' in q or 'Да' in q:
     print("Получилось число", s)
     print('Хочешь повторить?')
     q = input()
+
